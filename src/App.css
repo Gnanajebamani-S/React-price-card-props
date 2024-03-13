@@ -1,0 +1,52 @@
+.container {
+  margin-top: 100px;
+  background-image: linear-gradient(rgb(59, 59, 224), rgb(98, 98, 235));
+}
+
+.col {
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+
+.rounded-3 {
+  border-radius: 50px;
+}
+.card-header {
+  background-color: white;
+}
+
+.card-body {
+  text-align: left;
+}
+
+.btn-outline-primary {
+  color: white;
+  border-radius: 25px;
+  background-color: rgb(31, 143, 223);
+}
+.btn-outline-primary1 {
+  color: white;
+  border-radius: 25px;
+  background-color: rgb(9, 117, 194);
+  --bs-btn-color: #0d6efd;
+  --bs-btn-border-color: #0d6efd;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #0d6efd;
+  --bs-btn-hover-border-color: #0d6efd;
+  --bs-btn-focus-shadow-rgb: 13, 110, 253;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #0d6efd;
+  --bs-btn-active-border-color: #0d6efd;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #0d6efd;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #0d6efd;
+  --bs-gradient: none;
+}
+.row {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.my-0 {
+  color: rgb(206, 220, 232);
+}
